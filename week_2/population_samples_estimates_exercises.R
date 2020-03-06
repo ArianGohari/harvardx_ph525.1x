@@ -64,5 +64,5 @@ avg_smpl_y_fem <- mean(smpl_y_fem)
 abs((avg_smpl_y_fem - avg_smpl_x_fem) - (avg_y_fem - avg_x_fem))
 
 # Exercise 9: Why are sample estimates for females closer to population difference than with males?
-# The population variance of the females is smaller than that of the males; this, the sample variable
+# The population variance of the females is smaller than that of the males; thus, the sample variable
 # has less variabilty
