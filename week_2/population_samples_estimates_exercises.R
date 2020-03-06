@@ -13,7 +13,7 @@ x <- filter(dat, Sex == "M", Diet == "chow") %>% select(Bodyweight) %>% unlist()
 avg_x <- mean(x)
 avg_x
 
-# Exercise 2: Population (x) standart deviation calculated with rafalib package
+# Exercise 2: Population (x) standard deviation calculated with rafalib package
 install.packages("rafalib")
 library("rafalib")
 sd_x <- popsd(x)
@@ -30,7 +30,7 @@ y <- filter(dat, Sex == "M", Diet == "hf") %>% select(Bodyweight) %>% unlist()
 avg_y <- mean(y)
 avg_y
 
-# Exercise 5: Population (y) standart deviation calculated with rafalib package
+# Exercise 5: Population (y) standard deviation calculated with rafalib package
 sd_y <- popsd(y)
 sd_y
 
