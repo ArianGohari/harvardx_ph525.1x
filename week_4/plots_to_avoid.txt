@@ -1,0 +1,11 @@
+Exercise 1: When is it appropriate to use pie charts or donut charts?
+O - When you are hungry.
+O - To compare percentages.
+O - To compare values that add up to 100%.
+X - Never.
+
+Exercise 2: The use of pseudo-3D plots in the literature mostly adds:
+O - Pizzazz.
+O - The ability to see three dimensional data.
+O - Ability to discover.
+X - Confusion.
